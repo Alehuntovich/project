@@ -1,2 +1,2 @@
-# sial app
+# special app
 # or not special file
