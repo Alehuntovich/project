@@ -1,3 +1,3 @@
 # special app
-# or not specialS
+# or not special
 
